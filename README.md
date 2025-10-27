@@ -50,3 +50,6 @@
     </ul>
 </ul>
 <hr>
+<h2>Example</h2>
+<img src="https://github.com/antoniossaliba/URDFs-macros-and-xacros/blob/main/images/Screenshot%202025-10-27%20223239.png" />
+<img src="https://github.com/antoniossaliba/URDFs-macros-and-xacros/blob/main/images/Screenshot%202025-10-27%20223351.png" />
