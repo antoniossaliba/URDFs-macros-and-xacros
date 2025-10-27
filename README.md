@@ -21,3 +21,17 @@
 </ul>
 <hr>
 <h2>What are <code><b>xacro</b></code> files?</h2>
+<ul>
+    <li>Another type of files made to support <code><b>URDF</b></code> structuring</li>
+    <li>Used to simplify <code><b>URDF</b></code> files</li>
+    <li>HOW?</li>
+    <ul>
+        <li>By the use of <code><b>macros</b></code></li>
+    </ul>
+    <li>What are <code><b>macros</b></code>?</li>
+    <ul>
+        <li>They are like defining functions that contains one part of the <code><b>URDF</b></code> file which is used more than once</li>
+        <li>They are defined and referenced in <code><b>xacro</b></code> files</li>
+    </ul>
+</ul>
+<hr>
