@@ -1,2 +1,22 @@
 <h1>URDF & xacro using macros files</h1>
 <hr>
+<h2>What are URDF files?</h2>
+<ul>
+    <li>Stands for Unified Robot Description Format</li>
+    <li>Used to describe the following:</li>
+    <ul>
+        <li>The robot's components which can be mainly refered to as <code><b>link</b></code>:</li>
+        <ul>
+            <li>Spheres</li>
+            <li>Boxes</li>
+            <li>Cylinders</li>
+        </ul>
+        <li>The robot's <code>joint</code> between its components</li>
+        <li>Describe the robot's control part parameters such as:</li>
+        <ul>
+            <li>mass</li>
+            <li>inertia parameters</li>
+        </ul>
+    </ul>
+</ul>
+<hr>
