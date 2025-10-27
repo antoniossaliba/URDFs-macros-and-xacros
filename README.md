@@ -35,3 +35,18 @@
     </ul>
 </ul>
 <hr>
+<h2>File definitions</h2>
+<ul>
+    <li><code><b>URDF</b></code> files: <code><b>.urdf</b></code></li>
+    <li><code><b>xacro</b></code> files: <code><b>.xacro</b></code></li>
+</ul>
+<hr>
+<h2>Important Notes</h2>
+<ul>
+    <li><code><b>ROS2</b></code> cannot run <code><b>.xacro</b></code> files</li>
+    <li>After defining the <code><b>macros</b></code> and <code><b>xacro</b></code> in <code><b>.xacro</b></code> files we have to run the following command to invert the <code><b>.xacro</b></code> files to <code><b>.urdf</b></code> files:</li>
+    <ul>
+        <li><code><b>ros2 run xacro xacro urdf/BMW_robot.xacro -o urdf/BMW_robot.urdf</b></code</li>
+    </ul>
+</ul>
+<hr>
