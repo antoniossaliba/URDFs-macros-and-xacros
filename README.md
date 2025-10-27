@@ -1,6 +1,6 @@
 <h1>URDF & xacro using macros files</h1>
 <hr>
-<h2>What are URDF files?</h2>
+<h2>What are <code><b>URDF</b></code> files?</h2>
 <ul>
     <li>Stands for <b>Unified Robot Description Format</b></li>
     <li>Used to describe the following:</li>
@@ -20,3 +20,4 @@
     </ul>
 </ul>
 <hr>
+<h2>What are <code><b>xacro</b></code> files?</h2>
